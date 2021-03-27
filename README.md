@@ -9,7 +9,7 @@ In this challenge, I created an interactive map using the latest tectonic plate 
  - Their sizes are proportional to the magnitude of the earthquake
  - The index on the bottom left shows the relationship between the color of the marker and the magnitude of the earthquake
 
-<img src = "https://github.com/Kee2u/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/images/dark_map.PNG?raw=true">
+
 
 <img src = " https://github.com/Kee2u/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/images/street_map.PNG?raw=true">
 
