@@ -11,5 +11,5 @@ In this challenge, I created an interactive map using the latest tectonic plate 
 
 <img src = "https://github.com/Kee2u/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/images/dark_map.PNG?raw=true">
 
-<img src = "https://github.com/Kee2u/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/images/street_map.PNG?raw=true">
+<img src = " https://github.com/Kee2u/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/images/street_map.PNG?raw=true">
 
