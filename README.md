@@ -6,5 +6,5 @@ In this challenge, I created an interactive map using the latest tectonic plate 
  - The map has different map styles available (Street, Satellite and Dark). These can be toggled by selecting the layers option in the top right hand corner. 
  - Layers of earthquake markers and tectonic plates can also be added to the map.
  - The earthquake markers are color coded based on magnitude and show popups with information when you click on them.
- - Their size is proportional to the magnitude of the earthquake
+ - Their sizes are proportional to the magnitude of the earthquake
  - The index on the bottom left shows the relationship between the color of the marker and the magnitude of the earthquake
